@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Temporary audio files
+*.wav
+*.mp3
+
+# Editor and operating system files
+.DS_Store
+.vscode/
+.idea/
